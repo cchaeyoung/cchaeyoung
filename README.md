@@ -22,3 +22,5 @@ Here are some ideas to get you started:
   height="300"
 />
 </a>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cchaeyoung&layout=compact&theme=dracula)
