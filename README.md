@@ -16,16 +16,16 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <a href="https://github.com/devxb/gitanimals">
-    <img
-      src="https://render.gitanimals.org/farms/cchaeyoung"
-      width="600"
-      height="300"
-    />
-  </a>
   
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcchaeyoung%2Fhit-counter&count_bg=%23E4ABFF&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=cchaeyoung&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/cchaeyoung?pet-id=714856484076644955"
+    width="600"
+    height="120"
+  />
+</a>
+  
+  
 </div>
 
 
